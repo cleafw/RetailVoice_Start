@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="seeed@192.168.2.131:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="seeed@192.168.1.13:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="seeed@192.168.1.28:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/seeed/seeed/Project/RetailVoice_Start/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="seeed@192.168.2.131:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/seeed/seeed/Project/RetailVoice_Start/" local="$PROJECT_DIR$/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
